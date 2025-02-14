@@ -11,5 +11,9 @@ UTU MarineMap is designed to enhance maritime situational awareness for a wide r
 
 Our UI design process begins with in-depth user research—combining interviews and surveys with a diverse group of stakeholders to uncover their unique needs and expectations. Using Figma as our primary design tool, we rapidly prototype and iterate on layouts, ensuring the interface remains intuitive and streamlined for all users. We deliberately selected simple color palettes and UI components to keep navigation clear and accessible, recognizing that maritime professionals must quickly and accurately parse critical data. While our current design is already functional, it is still a work in progress, and we remain committed to ongoing refinement as new insights and requirements emerge.
 
+A short video featuring this version of UTU MarineMap can be found here: 
+
+https://www.linkedin.com/posts/farshad-farahnakian-861955194_digital-twin-utu-activity-7295815080737148929-fyFu?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAC2z54kB-W_KMNg_gFUYz9vKGVFj83TmSMs
+
 # Technical Section
 It is loading...
